@@ -1,9 +1,9 @@
 streamlit
 yfinance
 pandas
-numpy
+numpy<2.0.0
 plotly
-scipy
+scipy<1.14.0
 statsmodels
 scikit-learn
 cvxpy
