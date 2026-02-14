@@ -3,7 +3,8 @@ yfinance
 pandas
 numpy
 plotly
-PyPortfolioOpt
 scipy
 statsmodels
 scikit-learn
+cvxpy
+PyPortfolioOpt
